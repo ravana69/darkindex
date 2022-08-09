@@ -6,12 +6,12 @@
 ***
 | S.No. | Range  | Status |
 | :---:   | :-: |  :-: | 
-| 1 | [1 to 100](https://github.com/ravana69/darkindex/wiki/1-to-100) |  ✔ |
-| 2 | [101 to 200](https://github.com/ravana69/darkindex/wiki/101-to-200) |  ✔ |
-| 3 | [201 to 300](https://github.com/ravana69/darkindex/wiki/201-to-300) |  ✔ |
-| 4 | [301 to 400](https://github.com/ravana69/darkindex/wiki/301-to-400) |  ✔ |
-| 5 | [401 to 500](https://github.com/ravana69/darkindex/wiki/401-to-500) |  ✔ |
-| 6 | [501 to 600](https://github.com/ravana69/darkindex/wiki/501-to-600) |  ⚠ |
+| 1 | [1 to 100](https://github.com/ravana69/darkindex/wiki/1-to-100) |  ✅ |
+| 2 | [101 to 200](https://github.com/ravana69/darkindex/wiki/101-to-200) |  ✅ |
+| 3 | [201 to 300](https://github.com/ravana69/darkindex/wiki/201-to-300) |  ✅ |
+| 4 | [301 to 400](https://github.com/ravana69/darkindex/wiki/301-to-400) |  ✅ |
+| 5 | [401 to 500](https://github.com/ravana69/darkindex/wiki/401-to-500) |  ✅ |
+| 6 | [501 to 600](https://github.com/ravana69/darkindex/wiki/501-to-600) |  ⚠️ |
 | 7 | [601 to 700](https://github.com/ravana69/darkindex/wiki/601-to-700) |  ❌ |
 | 8 | [701 to 800](https://github.com/ravana69/darkindex/wiki/701-to-800) |  ❌ |
 | 9 | [801 to 900](https://github.com/ravana69/darkindex/wiki/801-to-900) |  ❌ |
