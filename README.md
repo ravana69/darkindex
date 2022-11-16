@@ -6,14 +6,14 @@
 ***
 | S.No. | Range  | Status |
 | :---:   | :-: |  :-: | 
-| 1 | [1 to 100](https://github.com/ravana69/darkindex/wiki/1-to-100) |  ✅ |
-| 2 | [101 to 200](https://github.com/ravana69/darkindex/wiki/101-to-200) |  ✅ |
-| 3 | [201 to 300](https://github.com/ravana69/darkindex/wiki/201-to-300) |  ✅ |
-| 4 | [301 to 400](https://github.com/ravana69/darkindex/wiki/301-to-400) |  ✅ |
-| 5 | [401 to 500](https://github.com/ravana69/darkindex/wiki/401-to-500) |  ✅ |
-| 6 | [501 to 600](https://github.com/ravana69/darkindex/wiki/501-to-600) |  ✅ |
-| 7 | [601 to 700](https://github.com/ravana69/darkindex/wiki/601-to-700) |  ✅ |
-| 8 | [701 to 800](https://github.com/ravana69/darkindex/wiki/701-to-800) |  ⚠️ |
-| 9 | [801 to 900](https://github.com/ravana69/darkindex/wiki/801-to-900) |  ❌ |
-| 10 | [901 to 1000](https://github.com/ravana69/darkindex/wiki/901-to-1000) |  ❌ |
+| 1 | [1 to 100](https://github.com/ravana69/darkindex/blob/2f9e86e4729ff1c07ff306d4944e2d6c9e12038a/index.html#L476) |  ✅ |
+| 2 | [101 to 200](https://github.com/ravana69/darkindex/blob/2f9e86e4729ff1c07ff306d4944e2d6c9e12038a/index.html#L876) |  ✅ |
+| 3 | [201 to 300](https://github.com/ravana69/darkindex/blob/2f9e86e4729ff1c07ff306d4944e2d6c9e12038a/index.html#L1276) |  ✅ |
+| 4 | [301 to 400](https://github.com/ravana69/darkindex/blob/2f9e86e4729ff1c07ff306d4944e2d6c9e12038a/index.html#L1676) |  ✅ |
+| 5 | [401 to 500](https://github.com/ravana69/darkindex/blob/2f9e86e4729ff1c07ff306d4944e2d6c9e12038a/index.html#L2076) |  ✅ |
+| 6 | [501 to 600](https://github.com/ravana69/darkindex/blob/2f9e86e4729ff1c07ff306d4944e2d6c9e12038a/index.html#L2476) |  ✅ |
+| 7 | [601 to 700](https://github.com/ravana69/darkindex/blob/2f9e86e4729ff1c07ff306d4944e2d6c9e12038a/index.html#L2876) |  ✅ |
+| 8 | [701 to 800](https://github.com/ravana69/darkindex/blob/2f9e86e4729ff1c07ff306d4944e2d6c9e12038a/index.html#L3261) |  ⚠️ |
+| 9 | [801 to 900]() |  ❌ |
+| 10 | [901 to 1000]() |  ❌ |
 ***
