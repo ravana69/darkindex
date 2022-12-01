@@ -1,7 +1,7 @@
 ***
 # <<<Welcome to the Ravana's Dark Index>>>
 ***
-<h3 align="center"> <a href="https://t.me/r4v4n4"><img src="https://profile-counter.glitch.me/ravana69/count.svg" alt="visitor" width="600"></a> </h3>
+<h3 align="center"> <a href="https://t.me/z_z_z_z_z_z_z_z_z_z_z_z_z_z_z"><img src="https://profile-counter.glitch.me/ravana69/count.svg" alt="visitor" width="600"></a> </h3>
 
 ***
 | S.No. | Range  | Status |
